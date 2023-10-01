@@ -1,4 +1,4 @@
-# Created By @xl444
+# Created By @eiint
 # Copyright By watan
 
 from os import getenv
@@ -18,7 +18,7 @@ ASSNAME = getenv("ASSNAME", "Kasijekg")
 ASSUSERNAME = getenv("ASSUSERNAME", "Kasijekg")
 
 BOT_ID = int(getenv("BOT_ID", "5204315005"))
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/STKR2/LG")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Hshwjjwjwjwj/gyhshhs")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
